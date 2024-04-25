@@ -1,83 +1,47 @@
-﻿Date,Type,Amount
-01/01/2024,College Saving,-363.00
-20/01/2024,College Saving,-200.00
-08/02/2024,College Saving,1100.00
-16/02/2024,College Saving,50.00
-23/02/2024,College Saving,50.00
-01/03/2024,College Saving,100.00
-08/03/2024,College Saving,100.00
-15/03/2024,College Saving,100.00
-22/03/2024,College Saving,100.00
-29/03/2024,College Saving,100.00
-05/04/2024,College Saving,100.00
-12/04/2024,College Saving,100.00
-19/04/2024,College Saving,100.00
-26/04/2024,College Saving,100.00
-21/02/2024,Income,1528.81
-06/03/2024,Income,1400.00
-19/03/2024,Income,1050.00
-29/03/2024,Income,962.50
-19/04/2024,Income,1050.00
-05/01/2024,Personal Loan,18.58
-12/01/2024,Personal Loan,18.58
-19/01/2024,Personal Loan,18.58
-24/01/2024,Personal Loan,18.58
-02/02/2024,Personal Loan,18.58
-09/02/2024,Personal Loan,18.58
-16/02/2024,Personal Loan,18.58
-23/02/2024,Personal Loan,18.58
-01/03/2024,Personal Loan,18.58
-08/03/2024,Personal Loan,18.58
-15/03/2024,Personal Loan,18.58
-22/03/2024,Personal Loan,18.58
-12/04.2024,Personal Loan,18.58
-19/04/2024,Personal Loan,18.58
-26/04/2024,Personal Loan,18.58
-25/10/2023,College Loan,188.17 
-27/11/2023,College Loan,188.17 
-28/12/2023,College Loan,188.17 
-25/01/2024,College Loan,188.17 
-26/02/2024,College Loan,188.17 
-25/03/2024,College Loan,188.17 
-25/04/2024,College Loan,188.17 
-21/02/2024,Tax,305.00 
-06/03/2024,Tax,280.00 
-19/03/2024,Tax,210.00 
-29/03/2024,Tax,192.50 
-19/04/2024,Tax,210.00 
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
-,,
+﻿Date,Type,Amount,Cumulative,,
+01/01/2024,College Saving,-363,801.5,,
+20/01/2024,College Saving,-200,601.5,,
+08/02/2024,College Saving,1100,1701.5,,
+16/02/2024,College Saving,50,1751.5,,
+23/02/2024,College Saving,50,1801.5,,
+01/03/2024,College Saving,100,1901.5,,
+08/03/2024,College Saving,100,2001.5,,
+15/03/2024,College Saving,100,2101.5,,
+22/03/2024,College Saving,100,2201.5,,
+29/03/2024,College Saving,100,2301.5,,
+05/04/2024,College Saving,100,2401.5,,
+12/04/2024,College Saving,100,2501.5,,
+19/04/2024,College Saving,100,2601.5,,
+26/04/2024,College Saving,100,2701.5,,
+21/02/2024,Income,1528.81,1528.81,,
+06/03/2024,Income,1400,2928.81,,
+19/03/2024,Income,1050,3978.81,,
+29/03/2024,Income,962.5,4941.31,,
+19/04/2024,Income,1050,5991.31,,
+05/01/2024,Personal Loan,18.58,-1012.44,,
+12/01/2024,Personal Loan,18.58,-993.86,,
+19/01/2024,Personal Loan,18.58,-975.28,,
+24/01/2024,Personal Loan,18.58,-956.7,,
+02/02/2024,Personal Loan,18.58,-938.12,,
+09/02/2024,Personal Loan,18.58,-919.54,,
+16/02/2024,Personal Loan,18.58,-900.96,,
+23/02/2024,Personal Loan,18.58,-882.38,,
+01/03/2024,Personal Loan,18.58,-863.8,,
+08/03/2024,Personal Loan,18.58,-845.22,,
+15/03/2024,Personal Loan,18.58,-826.64,,
+22/03/2024,Personal Loan,18.58,-808.06,,
+12/04.2024,Personal Loan,18.58,-789.48,,
+19/04/2024,Personal Loan,18.58,-770.9,,
+26/04/2024,Personal Loan,18.58,-752.32,,
+25/10/2023,College Loan,188.17,-6017.32,,
+27/11/2023,College Loan,188.17,-5829.15,,
+28/12/2023,College Loan,188.17,-5640.98,,
+25/01/2024,College Loan,188.17,-5452.81,,
+26/02/2024,College Loan,188.17,-5264.64,,
+25/03/2024,College Loan,188.17,-5076.47,,
+25/04/2024,College Loan,188.17,-4888.3,,
+21/02/2024,Tax,305,305,,
+06/03/2024,Tax,280,585,,
+19/03/2024,Tax,210,795,,
+29/03/2024,Tax,192.5,987.5,,
+19/04/2024,Tax,210,1197.5,,
